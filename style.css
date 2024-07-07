@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color:rgb(148, 226, 255);
+    padding:10px;
+    color:darkblue;
+    
+
+
+}
+
+header a{
+    text-decoration: none;
+    background-color:white;
+    border-radius:7px;
+}
+
+h1{
+    background-color:rgb(148, 226, 255);
+    text-align:center;
+    color:darkblue;
+}
+
+footer{
+    background-color:rgb(225, 181, 112);
+    padding:5px;
+}
+
+footer p{
+   background-color:white;
+   padding:7px;
+}
+
+nav{
+    border:3px solid lightblue;
+    padding: 3px;
+  
+}
+
+nav a{
+   text-decoration: none;
+   margin:20px;
+
+}
+
+.algo{
+    background-color:rgb(148, 226, 255);
+    padding:15px; 
+}
+
+h2{
+    color:blue;
+}
